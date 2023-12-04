@@ -10,3 +10,4 @@ latest exes are "bnuuy_windows.exe" and "bnuuy_linux"
 - added rabbit
 - added harlequin mode
 - added "better" graphics
+- added readme
